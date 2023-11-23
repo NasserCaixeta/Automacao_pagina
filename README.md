@@ -1,11 +1,10 @@
-#Automação de Inserção de Dados em Site de Gerenciamento de Produtos
+# Automação de Inserção de Dados em Site de Gerenciamento de Produtos
+
 Este script em Python utiliza a biblioteca PyAutoGUI para automatizar a inserção de dados em um site de gerenciamento de produtos. O objetivo é preencher as informações de produtos a partir de um arquivo CSV chamado "produtos.csv".
 
-#Pré-requisitos
+## Pré-requisitos
 Certifique-se de ter as seguintes bibliotecas instaladas antes de executar o script:
-
-bash
-Copy code
+```bash
 pip install pyautogui pandas
 Como Usar
 Clone este repositório em sua máquina local:
@@ -26,5 +25,5 @@ Execute o código Python para automatizar o preenchimento dos dados dos produtos
 
 Observação: O script está configurado para interagir com o Google Chrome. Certifique-se de ter o Chrome instalado em seu sistema.
 
-#Contribuições
+Contribuições
 Contribuições são bem-vindas! Caso tenha sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
